@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Devops Demo project for Spring </description>
@@ -21,6 +21,10 @@
 	<developers>
 		<developer />
 	</developers>
+<<<<<<< HEAD
+=======
+	
+>>>>>>> feature/nv101_initial_landing_homepage
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -49,6 +53,10 @@
 	
 	
 	
+<<<<<<< HEAD
+=======
+	
+>>>>>>> feature/nv101_initial_landing_homepage
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -80,6 +88,10 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature/nv101_initial_landing_homepage
 	</dependencies>
 
 	<build>
@@ -98,6 +110,11 @@
 					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
+<<<<<<< HEAD
+=======
+			
+			
+>>>>>>> feature/nv101_initial_landing_homepage
 		</plugins>
 	</build>
 
